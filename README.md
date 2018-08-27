@@ -1,1 +1,1 @@
-Testing GIT - Creating new repository
+Testing GIT - Creating new repository: BRANCH
