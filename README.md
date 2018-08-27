@@ -1,1 +1,1 @@
-# testing_git
+Testing GIT - Creating new repository
